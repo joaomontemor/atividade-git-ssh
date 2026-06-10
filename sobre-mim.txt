@@ -1,3 +1,4 @@
 Sou João Paulo, curso Engenharia de Software 
 Aprendi a usar GitBash
 Alteração pelo GitHub
+Alteração local
